@@ -1,0 +1,145 @@
+{
+  "project_info": {
+    "project_number": "899214926384",
+    "project_id": "electrocare0",
+    "storage_bucket": "electrocare0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899214926384:android:589c7d3abc9cb4dcde83f5",
+        "android_client_info": {
+          "package_name": "com.example.electrocare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899214926384-27hsq0dq94bqde3887j2l16p8gqm07sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electrocare",
+            "certificate_hash": "2c1902ecae5a55f92596c974f0d1c055e4687c8a"
+          }
+        },
+        {
+          "client_id": "899214926384-f2hvlfs2tindoc412e23uaevtmpugr3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electrocare",
+            "certificate_hash": "5a78acf4414734e0e7e6a287a4b3ccceaac6af2c"
+          }
+        },
+        {
+          "client_id": "899214926384-fdrlnk5t9ch6j3485spe3cag6d4m0qhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electrocare",
+            "certificate_hash": "4edb37cb27e67c32a87163cd5e3fe6eab365b7b2"
+          }
+        },
+        {
+          "client_id": "899214926384-3734qd712olqgm1jjneib1mfv409iica.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkAJZFw3H1B0bV3uCNR9eCBRH1zQFIcME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899214926384-3734qd712olqgm1jjneib1mfv409iica.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899214926384:android:efb4392ad3dc5afbde83f5",
+        "android_client_info": {
+          "package_name": "com.example.electrocare_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899214926384-3734qd712olqgm1jjneib1mfv409iica.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkAJZFw3H1B0bV3uCNR9eCBRH1zQFIcME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899214926384-3734qd712olqgm1jjneib1mfv409iica.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899214926384:android:6bc1a1bdf453adaade83f5",
+        "android_client_info": {
+          "package_name": "com.example.electrocare_executive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899214926384-g2mp7p4653ls45pqcnp5bt7tvp7jc3fb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electrocare_executive",
+            "certificate_hash": "5a78acf4414734e0e7e6a287a4b3ccceaac6af2c"
+          }
+        },
+        {
+          "client_id": "899214926384-glefeol8vjcjkkdjp443j535p1ivtgt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electrocare_executive",
+            "certificate_hash": "2c1902ecae5a55f92596c974f0d1c055e4687c8a"
+          }
+        },
+        {
+          "client_id": "899214926384-ogmvg0cl8ugi6psbsfp80ucdg65rke8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electrocare_executive",
+            "certificate_hash": "4edb37cb27e67c32a87163cd5e3fe6eab365b7b2"
+          }
+        },
+        {
+          "client_id": "899214926384-3734qd712olqgm1jjneib1mfv409iica.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkAJZFw3H1B0bV3uCNR9eCBRH1zQFIcME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899214926384-3734qd712olqgm1jjneib1mfv409iica.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
